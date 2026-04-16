@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* You can add global styles below */
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Cormorant Garamond', serif;
+}
